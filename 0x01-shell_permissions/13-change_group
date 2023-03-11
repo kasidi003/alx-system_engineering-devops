@@ -1,2 +1,2 @@
 #!/bin/bash
-chwn school hello
+chgrp school hello
